@@ -67,12 +67,12 @@
     <Compile Include="Assets\Components\HighlightComponent.cs" />
     <Compile Include="Assets\Components\HighlightSpawner.cs" />
     <Compile Include="Assets\Components\HighlightSpawnerProxy.cs" />
-    <Compile Include="Assets\Components\MMXShoot.cs" />
     <Compile Include="Assets\Components\MoveSpeedComponent.cs" />
     <Compile Include="Assets\Components\NavAgentComponent.cs" />
     <Compile Include="Assets\Components\PlayerInputComponent.cs" />
     <Compile Include="Assets\Components\PlayerUnitSelectComponent.cs" />
     <Compile Include="Assets\Components\SelectingComponent.cs" />
+    <Compile Include="Assets\Components\ShootScript.cs" />
     <Compile Include="Assets\Components\UnitSpawner.cs" />
     <Compile Include="Assets\Components\UnitSpawnerProxy.cs" />
     <Compile Include="Assets\Systems\AABBCollisionSystem.cs" />
