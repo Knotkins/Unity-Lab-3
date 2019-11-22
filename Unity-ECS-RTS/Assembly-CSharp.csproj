@@ -67,6 +67,7 @@
     <Compile Include="Assets\Components\HighlightComponent.cs" />
     <Compile Include="Assets\Components\HighlightSpawner.cs" />
     <Compile Include="Assets\Components\HighlightSpawnerProxy.cs" />
+    <Compile Include="Assets\Components\MMXShoot.cs" />
     <Compile Include="Assets\Components\MoveSpeedComponent.cs" />
     <Compile Include="Assets\Components\NavAgentComponent.cs" />
     <Compile Include="Assets\Components\PlayerInputComponent.cs" />
